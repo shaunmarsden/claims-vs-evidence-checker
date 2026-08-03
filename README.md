@@ -41,10 +41,6 @@ No installation, project, or coding required to try it once.
 
 This flags gaps, it does not act on them. Every status update stays a deliberate action you make yourself.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it on a real tracker? [Start a discussion](https://github.com/shaunmarsden/claims-vs-evidence-checker/discussions) if it missed something or flagged a false positive.
