@@ -11,13 +11,7 @@ Check whether a tracked status, a project's "on track", a task's "done", is actu
 
 A status field is a claim, not a fact. Left unchecked, it drifts: something marked "done" that still needs a check, something marked "in progress" that has not moved in months, all reading as fine at a glance because the field says so. This holds the record and the evidence apart so it is clear where they actually agree.
 
-```mermaid
-flowchart TB
-    A["1. Paste the tracker and its notes"]
-    B["2. Recorded status compared to actual evidence"]
-    C["3. Conflicts and gaps named for you to confirm"]
-    A --> B --> C
-```
+![Recorded status compared with the evidence-supported state.](assets/diagrams/06-claims-vs-evidence-checker.svg)
 
 ## Use It
 
