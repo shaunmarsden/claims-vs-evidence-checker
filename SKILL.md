@@ -53,4 +53,4 @@ Do not produce a review when:
 
 This flags gaps and suggests a working state; it does not change anything. Every status update stays with a person.
 
-For a fictional worked example, read [the worked example](example/). Use [the blank template](templates/status-check-template.md) for your own list.
+For a fictional worked example, read [the worked example](example/). For a harder case, two genuine notes on the same item that contradict each other, read [the second worked example](example-two/). Use [the blank template](templates/status-check-template.md) for your own list, and [the review checklist](checks/checklist.md) before acting on anything flagged.
