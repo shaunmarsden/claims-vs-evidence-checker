@@ -13,6 +13,8 @@ A status field is a claim, not a fact. Left unchecked, it drifts: something mark
 
 [![Recorded status compared with the evidence-supported state.](assets/diagrams/06-claims-vs-evidence-checker.svg)](SKILL.md)
 
+**Not what you need?** This audits an existing tracker's status fields against the evidence for each item. If you are instead turning a meeting into a written record, [Evidence-Labelled Meeting Notes](https://github.com/shaunmarsden/evidence-labelled-meeting-notes) is probably the one you want.
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in your tracker and whatever notes exist for each item. It produces, per item:
