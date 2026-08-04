@@ -5,7 +5,7 @@ description: Check whether a tracked status, a project's "on track", a task's "d
 
 # Claims vs. Evidence Checker
 
-You do not need to install anything to try this once: copy this whole file, paste it as your first message in any AI chat tool, then paste in the tracker and whatever notes or evidence exist for each item.
+You do not need to install anything to try this once. The lines between the dashes at the very top are just this file's label; leave them in. On GitHub, copy this using the **Raw** button near the top of the page rather than selecting the rendered text, so the tables and links below paste in cleanly. Send the whole file as your first message in any AI chat tool, then paste in the tracker and whatever notes or evidence exist for each item.
 
 The recorded status is a claim, not a fact. This holds the tracker's fields and the actual evidence apart, so it is clear where they agree and where they have drifted, rather than trusting a status because it is written down.
 
