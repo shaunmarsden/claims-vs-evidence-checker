@@ -13,7 +13,7 @@ A status field is a claim, not a fact. Left unchecked, it drifts: something mark
 
 [![Recorded status compared with the evidence-supported state.](assets/diagrams/06-claims-vs-evidence-checker.svg)](SKILL.md)
 
-**Not what you need?** This audits an existing tracker's status fields against the evidence for each item. If you are instead turning a meeting into a written record, [Evidence-Labelled Meeting Notes](https://github.com/shaunmarsden/evidence-labelled-meeting-notes) is probably the one you want.
+**Not what you need?** This audits an existing tracker's status fields against the evidence for each item. If you are instead turning a meeting into a written record, [Evidence-Labelled Meeting Notes](https://github.com/shaunmarsden/evidence-labelled-meeting-notes) is probably the one you want. If you have two separate, independently-kept records that are each supposed to reflect the same thing, not one record and its own supporting evidence, [Do These Actually Match?](https://github.com/shaunmarsden/do-these-actually-match) is the closer fit.
 
 ## Use It
 
