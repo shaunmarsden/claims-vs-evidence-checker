@@ -5,43 +5,43 @@
   <a href="LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/badge/licence-MIT-lightgrey"></a>
 </p>
 
-Check whether a tracked status, a project's "on track", a task's "done", is actually supported by the evidence held, separate from what the tracker records.
+Check whether the evidence you hold backs up a status in your tracker, such as a project's "on track" or a task's "done".
 
 ## Why
 
-A status field is a claim, not a fact. Left unchecked, it drifts: something marked "done" that still needs a check, something marked "in progress" that has not moved in months, all reading as fine at a glance because the field says so. This holds the record and the evidence apart so it is clear where they actually agree.
+A status field is a claim, not a fact. If nobody checks it, it drifts. Something marked "done" still needs a check. Something marked "in progress" hasn't moved in months. Both look fine at a glance because the field says so. This keeps the record and the evidence apart, so you can see where they agree.
 
 [![Recorded status compared with the evidence-supported state.](assets/diagrams/06-claims-vs-evidence-checker.svg)](SKILL.md)
 
-**Not what you need?** This audits an existing tracker's status fields against the evidence for each item. If you are instead turning a meeting into a written record, [Evidence-Labelled Meeting Notes](https://github.com/shaunmarsden/evidence-labelled-meeting-notes) is probably the one you want. If you have two separate, independently-kept records that are each supposed to reflect the same thing, not one record and its own supporting evidence, [Do These Actually Match?](https://github.com/shaunmarsden/do-these-actually-match) is the closer fit.
+**Not what you need?** This checks the status fields in a tracker you already have against the evidence for each item. If you're turning a meeting into a written record, you probably want [Evidence-Labelled Meeting Notes](https://github.com/shaunmarsden/evidence-labelled-meeting-notes). If you have two records, kept separately, that should both show the same thing, rather than one record and its evidence, [Do These Actually Match?](https://github.com/shaunmarsden/do-these-actually-match) fits better.
 
 ## Use It
 
-Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in your tracker and whatever notes exist for each item. It produces, per item:
+Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini or similar). Then paste in your tracker and any notes you have for each item. For each item you get:
 
-- The recorded status next to what the evidence actually supports
-- Any conflict between them, named specifically
-- What to confirm before trusting or updating the status
+- The recorded status next to what the evidence supports
+- Any conflict between them, named precisely
+- What to confirm before you trust or update the status
 
-See [the worked example](example/): a fictional home renovation punch list, catching a false "done" and a stale "in progress" that looked fine at a glance, while correctly leaving two genuinely healthy items alone, including one whose status label alone ("Blocked") could itself read as a concern. [The second worked example](example-two/) tests a harder case: two genuine notes on the same item that flatly contradict each other.
+[The worked example](example/) is a made-up list of home renovation jobs. The tool catches a false "done" and a stale "in progress" that looked fine at a glance. It leaves two healthy items alone, including one whose label ("Blocked") might look like a problem in itself. [The second worked example](example-two/) is harder: two real notes on the same item that contradict each other.
 
-Use [the blank template](templates/status-check-template.md) for your own tracker, and [the review checklist](checks/checklist.md) before acting on anything it flags.
+Use [the blank template](templates/status-check-template.md) for your own tracker, and [the review checklist](checks/checklist.md) before you act on anything it flags.
 
 <details>
 <summary><strong>See exactly what it produces</strong></summary>
 
-1. Recorded status and evidence-supported state, shown side by side for every item
-2. Any conflict, named specifically, not just flagged as "off"
-3. What to confirm before trusting or updating the record
-4. Genuinely healthy items called healthy, not buried under manufactured concerns
+1. The recorded status and what the evidence supports, side by side for every item
+2. Any conflict, named precisely, not just flagged as "off"
+3. What to confirm before you trust or update the record
+4. Healthy items called healthy, not buried under made-up concerns
 
 </details>
 
-No installation, project, or coding required to try it once.
+You don't need to install anything or write any code to try it once.
 
 ## Before You Use It
 
-This flags gaps, it does not act on them. Every status update stays a deliberate action you make yourself.
+This flags gaps. It doesn't act on them. You make every status update yourself.
 
 ## Feedback
 
@@ -49,4 +49,4 @@ Used it on a real tracker? [Start a discussion](https://github.com/shaunmarsden/
 
 ## Part of a Family
 
-This is one of a family of free tools generalising [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) patterns beyond sales. See [sibling-projects](https://github.com/shaunmarsden/sibling-projects) for the rest. Not sure which one actually fits? Try [the interactive picker](https://shaunmarsden.github.io/sibling-projects/) for clickable cards, or [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md) if you would rather paste a description into an AI chat.
+This is one of a family of free tools that take patterns from [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) and use them outside sales. The rest are in [sibling-projects](https://github.com/shaunmarsden/sibling-projects). Not sure which one fits? Try [the interactive picker](https://shaunmarsden.github.io/sibling-projects/), or paste a description of your problem into an AI chat with [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md).
