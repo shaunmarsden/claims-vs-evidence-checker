@@ -1,9 +1,9 @@
 # Human Review Checklist
 
-Run through this before updating anything based on a status check.
+Go through this before you update anything because of a status check.
 
-- [ ] Every flagged conflict names the specific gap, not just "this looks off"
-- [ ] A more recent note was not automatically trusted over an earlier one without checking both
-- [ ] A genuinely healthy item was called healthy, not flagged just to look thorough
-- [ ] Any staleness threshold used was stated as illustrative, not a fixed rule
-- [ ] Nothing has actually been changed in the tracker; every update is still yours to make
+- [ ] Every flagged conflict names the exact gap, not just "this looks off"
+- [ ] Nobody trusted a newer note over an older one without checking both
+- [ ] A healthy item was called healthy, not flagged just to look thorough
+- [ ] Any limit for "stale" was given as an example, not a fixed rule
+- [ ] Nothing in the tracker has changed; every update is still yours to make
