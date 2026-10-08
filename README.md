@@ -9,7 +9,7 @@ Check whether the evidence you hold backs up a status in your tracker, such as a
 
 ## Why
 
-A status field is a claim, not a fact. If nobody checks it, it drifts. Something marked "done" still needs a check. Something marked "in progress" hasn't moved in months. Both look fine at a glance because the field says so. This keeps the record and the evidence apart, so you can see where they agree.
+A status field is a claim, not a fact. If nobody checks it, it can drift. Something marked "done" still needs a check. Something marked "in progress" hasn't moved in months. Both look fine at a glance because the field says so. This keeps the record and the evidence apart, so you can see where they agree.
 
 [![Recorded status compared with the evidence-supported state.](assets/diagrams/06-claims-vs-evidence-checker.svg)](SKILL.md)
 

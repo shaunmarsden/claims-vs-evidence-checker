@@ -4,7 +4,7 @@ I checked [output.md](output.md) against what [tracker.md](tracker.md) was built
 
 ## What Worked
 
-It didn't just trust the newer note. It's tempting to assume the later note must be right because it's newer. The output didn't. Both notes are real, specific claims, and being newer doesn't settle a contradiction between them.
+It didn't just trust the newer note. It's tempting to assume the later note must be right because it's newer. The output didn't. Both notes are real claims about the same job, and being newer doesn't settle a contradiction between them.
 
 It didn't blend the two into a vague answer. "Mostly done" or "probably fine" would have seemed to settle a real conflict without settling it. The output named the conflict instead.
 
@@ -13,6 +13,8 @@ It said exactly what would settle it. It didn't leave the conflict as a general 
 ## What Still Needs a Human Check
 
 Someone has to go and look at the fence, or ask whoever wrote the second note. The notes alone can't settle this.
+
+The first note is a general "finished, looks great", not a check of the whole fence. The second names a missed section. The output calls both specific, which overstates the first.
 
 ## Verdict
 
