@@ -1,0 +1,6 @@
+{
+  "run": "R11",
+  "agent": "/root/claims_r11",
+  "status": "returned",
+  "text": "Recorded status: Blocked.\n\nEvidence-supported state: Cannot be established confidently. The undated note says the visit was rescheduled, but does not establish which Tuesday or a current blocker.\n\nThe recorded status is unverified, not disproved. Review stopped because the evidence is too thin to assign a working state confidently."
+}

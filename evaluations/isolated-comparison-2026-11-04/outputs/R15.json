@@ -1,0 +1,6 @@
+{
+  "run": "R15",
+  "agent": "/root/claims_r15",
+  "status": "returned",
+  "text": "Recorded status: Done  \nEvidence-supported state: Needs verification\n\nConflict: The 3 November note reports a loose rear hinge and no final sign-off. This contradicts the earlier “Finished” note, so the supplied evidence does not support Done.\n\nAny status update remains with a person."
+}

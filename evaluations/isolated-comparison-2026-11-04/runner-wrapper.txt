@@ -1,0 +1,1 @@
+Read only the supplied input packet at {path} using one read-only shell command. Then carry out the task in that packet and return only the requested answer. Do not inspect the repository or any other file, browse, follow links, use other tools, write files, message other agents or spawn agents. Do not discuss your setup.

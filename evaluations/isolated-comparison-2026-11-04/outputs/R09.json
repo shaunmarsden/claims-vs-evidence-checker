@@ -1,0 +1,6 @@
+{
+  "run": "R09",
+  "agent": "/root/claims_r09",
+  "status": "returned",
+  "text": "Recorded status: Done.\nEvidence-supported working state: Needs verification.\n\nThe 4 November note supports installation, but explicitly says a clearance check is still required before completion. “Done” therefore runs ahead of the supplied evidence.\n\nMinimum check: confirm whether the clearance check has been completed and passed. Any status update remains for human review."
+}

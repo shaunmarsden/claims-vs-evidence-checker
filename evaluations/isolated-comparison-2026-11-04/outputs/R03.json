@@ -1,0 +1,6 @@
+{
+  "run": "R03",
+  "agent": "/root/claims_r03",
+  "status": "returned",
+  "text": "Recorded status: Not Started.\n\nEvidence-supported state: Cannot be determined. No notes or other evidence are supplied, so the recorded status cannot be verified and no conflict can be established.\n\nReview stopped: the evidence is too thin to assign a working state confidently. Human review is required; no status change is proposed."
+}

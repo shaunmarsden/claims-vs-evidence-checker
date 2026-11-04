@@ -29,9 +29,9 @@ Copy [SKILL.md](SKILL.md) and paste it into any AI chat. Then paste in an approv
 
 [The second example](example-two/) uses two fictional notes that disagree about whether a fence is finished. The output surfaces that conflict, but the [review](example-two/review.md) notes that it overstates how specific the first note is.
 
-Both examples are illustrations, not logged model tests. The repository does not record the model, exact run instructions or settings. It has no measured accuracy or tool-by-tool compatibility results.
+Both examples are illustrations, not logged model tests. For these two illustrations, the repository does not record the model, exact run instructions or settings. It has no measured accuracy or tool-by-tool compatibility results.
 
-The [later illustration review](evaluations/illustration-calibration.md) applies explicit rules to both saved outputs. The [planned skill comparison](checks/skill-test/README.md) prepares a separate test; it has not been run and the live skill is unchanged.
+The [later illustration review](evaluations/illustration-calibration.md) applies explicit rules to both saved outputs. A [separate synthetic comparison](evaluations/isolated-comparison-2026-11-04/README.md) ran eight cases per version in isolated Codex conversations. Both versions met the required conclusions in this small, non-blind review. It found no candidate improvement under the agreed adoption rule, so the live skill is unchanged. This does not establish general accuracy or compatibility with other tools.
 
 Use [the blank template](templates/status-check-template.md) for your own tracker, and [the review checklist](checks/checklist.md) before you act on anything it flags.
 

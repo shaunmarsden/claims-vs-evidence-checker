@@ -1,0 +1,6 @@
+{
+  "run": "R05",
+  "agent": "/root/claims_r05",
+  "status": "returned",
+  "text": "Recorded status: Blocked.\nEvidence-supported working state: Needs verification.\n\nThe undated note says the visit was rescheduled, but “next Tuesday” cannot be tied to a calendar date. It neither supports a current blocker nor confirms a current booking.\n\nMinimum check: confirm the note’s date and whether the visit is currently booked or blocked. Any status update remains with a person."
+}

@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-04",
+  "status": "REGISTERED BEFORE RUNS",
+  "base_commit": "d381c73",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "medium",
+  "model_snapshot": "not exposed by subagent tool",
+  "environment": "Codex isolated subagents; fork_turns=none",
+  "maximum_subagent_trials": 16,
+  "retries": 0,
+  "api_calls": 0,
+  "grading": "Non-blind review by the orchestrator, which has seen both variants and the answer key.",
+  "tool_policy": "Each runner may read only its supplied standalone input packet outside the repository, then answer. No browsing, linked-file reads, repository inspection, writes or extra agents. Tool restriction is instruction-level, not a verified sandbox.",
+  "api_equivalence": "A subagent trial is not a claim of one API request. Internal inference-call counts, token usage and sampling defaults are not exposed.",
+  "changes_from_original_plan": "Subagent interface instead of direct API; one permitted packet-read tool operation. Same wrapper and preparation for both variants. Global Codex instructions remain in force.",
+  "inputs": [
+    {
+      "run": "R01",
+      "variant": "candidate",
+      "case": "C4",
+      "sha256": "f9a66d965c1d344bf06e3d4adffa4c26413ec723e5f8f6c612dbe678ea743d5b"
+    },
+    {
+      "run": "R02",
+      "variant": "baseline",
+      "case": "C3",
+      "sha256": "f825359e49e8bfafba59bb16b0aaa07483d3cadf8f5479f09fd6f597068e6211"
+    },
+    {
+      "run": "R03",
+      "variant": "baseline",
+      "case": "C2",
+      "sha256": "1b81ace0d5754609f8c654dc877bd82f17d0b2164061367edf8baaf64359dbcf"
+    },
+    {
+      "run": "R04",
+      "variant": "candidate",
+      "case": "C5",
+      "sha256": "e47b2a4cee708d6c5f32e8774a41b08bb41a69990431c53c408da54f195d45e6"
+    },
+    {
+      "run": "R05",
+      "variant": "candidate",
+      "case": "C1",
+      "sha256": "27e24186d7a318199fce067523311b19c15768a5475403c0c0000049ee1ab2d6"
+    },
+    {
+      "run": "R06",
+      "variant": "baseline",
+      "case": "C5",
+      "sha256": "accb27c96a8dcc5db7da5e87d25bea2ac91731a98afc6c161b8bf6a3c8cc9c1f"
+    },
+    {
+      "run": "R07",
+      "variant": "candidate",
+      "case": "C6",
+      "sha256": "a298201572b55ba8af914320d065a316ca8d3b0237bfd617baa29dfc65e62287"
+    },
+    {
+      "run": "R08",
+      "variant": "candidate",
+      "case": "C3",
+      "sha256": "10a90b3064ef89d77751739946fa3536a4ec98f3621ed777d7da4b81e1508211"
+    },
+    {
+      "run": "R09",
+      "variant": "candidate",
+      "case": "C8",
+      "sha256": "bf0b9c6ee644f6ce2626210bee959a70d347e09bd72e3bf79a84197d32b06e6f"
+    },
+    {
+      "run": "R10",
+      "variant": "baseline",
+      "case": "C4",
+      "sha256": "29c197516410388fd628d74d7f003ff456785e134d442c6c9a4ea506044246db"
+    },
+    {
+      "run": "R11",
+      "variant": "baseline",
+      "case": "C1",
+      "sha256": "d8b816e6bcccacef5017c6851fd50d2e686abec9b3e9b13da9b11b3cb7fba7ba"
+    },
+    {
+      "run": "R12",
+      "variant": "candidate",
+      "case": "C2",
+      "sha256": "a042e2813d5c417383461a93fd36a442ad8500c84b969b0cd312cbea5985820d"
+    },
+    {
+      "run": "R13",
+      "variant": "baseline",
+      "case": "C8",
+      "sha256": "219c9a7ffb29a5c1e1f8fb8a8fb87d56a948ceadead8a396d24c9d0d4db1d0d6"
+    },
+    {
+      "run": "R14",
+      "variant": "candidate",
+      "case": "C7",
+      "sha256": "5553c8b85d919cc95cc342c2be92b55ed65898cda731bb3aa2fc06017bb09f6c"
+    },
+    {
+      "run": "R15",
+      "variant": "baseline",
+      "case": "C6",
+      "sha256": "9af7eb549f91157df4b78676828cf1467daf176414365e7b25d185d736e204c8"
+    },
+    {
+      "run": "R16",
+      "variant": "baseline",
+      "case": "C7",
+      "sha256": "c84aba528d22e14f501e7c90e48db8bb2e3bd6ba9cc7bdd7db6e862c63325560"
+    }
+  ]
+}

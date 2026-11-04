@@ -1,0 +1,6 @@
+{
+  "run": "R01",
+  "agent": "/root/claims_r01",
+  "status": "returned",
+  "text": "Recorded status: Blocked.\n\nEvidence-supported working state: Supported blocked. The note dated 4 November confirms the inspection is booked for 10 November and cannot be completed before that visit.\n\nConflict: None. The recorded status agrees with the supplied evidence. This is a provisional reading, not independent verification; any status update remains with a person."
+}

@@ -1,0 +1,6 @@
+{
+  "run": "R07",
+  "agent": "/root/claims_r07",
+  "status": "returned",
+  "text": "Recorded status: Done.\n\nEvidence-supported working state: Unresolved conflict. The 2 November “Finished” note conflicts with the later 3 November note reporting a loose rear hinge and no final sign-off. The supplied evidence does not support Done.\n\nMinimum check: Confirm whether the hinge was subsequently repaired and final sign-off obtained. Any status change requires human review."
+}

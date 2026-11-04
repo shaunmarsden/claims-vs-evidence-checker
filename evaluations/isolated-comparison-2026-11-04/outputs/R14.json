@@ -1,0 +1,6 @@
+{
+  "run": "R14",
+  "agent": "/root/claims_r14",
+  "status": "returned",
+  "text": "Recorded status: Done.\nEvidence-supported state: Held - scope and ownership unconfirmed.\n\nThe note says “Serviced today”, but this item cannot be assessed as part of this review until its inclusion and ownership are confirmed. No status change is supported; any update remains with a person."
+}

@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-04",
+  "status": "COMPLETED AND REVIEWED",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "medium",
+  "trials_returned": 16,
+  "retries": 0,
+  "api_calls": 0,
+  "review_blind": false,
+  "review_independent": false,
+  "baseline": {
+    "cases_meeting_required_conclusion": 8,
+    "automatic_failures": 0
+  },
+  "candidate": {
+    "cases_meeting_required_conclusion": 8,
+    "automatic_failures": 0
+  },
+  "adoption_rule_met": false,
+  "live_skill_changed": false,
+  "files": [
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R01.json",
+      "sha256": "71945f3b741ad06dabc8c5dd84f6548c7457b7af3c782cc5c9eb3d45ae9e6a9f"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R02.json",
+      "sha256": "96cb3c36eba0dcfe1597418c5d249e62d0a96d1735c8f868ff2782e356aad22d"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R03.json",
+      "sha256": "7888d571d5ff850de33aa69f03f6e8fe584d48a7e03bfc655806fa62c1819042"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R04.json",
+      "sha256": "4bb09176102180812d5f06d14296194618546d483c41871729e0566883521b39"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R05.json",
+      "sha256": "62b80c531f110abbeb09d2543cb435e6b6f69a40beb0099c6125cef005b3838e"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R06.json",
+      "sha256": "77bce98d546befbc864289b700de9dc553638f293d074da5e392208342d4e7c0"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R07.json",
+      "sha256": "dbbd277bcda39fa80a30b54c25e630a61aa061e5aed4319438db51b1dea8fa89"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R08.json",
+      "sha256": "03ca4f1327941ace7af8ba7cfed19f2803bd33918556c7c825d9b7f73f243b56"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R09.json",
+      "sha256": "3139831d25f3bb75296e36aca3bb3e85b3906891d1669da42f23eacd53f67021"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R10.json",
+      "sha256": "3e08032b87556109b47f271eae4f3d79663eae728bc61ae31fa9c717ee3f3ef2"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R11.json",
+      "sha256": "a6acd083156358f1e3229f209a68753696aa92822d58b4f448862020fef145d7"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R12.json",
+      "sha256": "81524d063d0f2e641cf7f8a18ec13d95eeccb6095481e3c865accbda595df36a"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R13.json",
+      "sha256": "eba2477f184722a6126a8b2d7f6c591a8fd20b4639cd44be76043d472afd8a08"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R14.json",
+      "sha256": "3272346ec98cd44dddb640d94dc66ed2f491932bec7ef2920295ee0d12344cee"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R15.json",
+      "sha256": "eaefd3ef06cfac6ebd321e36c0e966c61688a5f0815a71a5696fd7531a2f36d2"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/outputs/R16.json",
+      "sha256": "12d6fac551a9007639145aafe1843effa23742905119aefe10efde1dfca60c15"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R01.txt",
+      "sha256": "f9a66d965c1d344bf06e3d4adffa4c26413ec723e5f8f6c612dbe678ea743d5b"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R02.txt",
+      "sha256": "f825359e49e8bfafba59bb16b0aaa07483d3cadf8f5479f09fd6f597068e6211"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R03.txt",
+      "sha256": "1b81ace0d5754609f8c654dc877bd82f17d0b2164061367edf8baaf64359dbcf"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R04.txt",
+      "sha256": "e47b2a4cee708d6c5f32e8774a41b08bb41a69990431c53c408da54f195d45e6"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R05.txt",
+      "sha256": "27e24186d7a318199fce067523311b19c15768a5475403c0c0000049ee1ab2d6"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R06.txt",
+      "sha256": "accb27c96a8dcc5db7da5e87d25bea2ac91731a98afc6c161b8bf6a3c8cc9c1f"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R07.txt",
+      "sha256": "a298201572b55ba8af914320d065a316ca8d3b0237bfd617baa29dfc65e62287"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R08.txt",
+      "sha256": "10a90b3064ef89d77751739946fa3536a4ec98f3621ed777d7da4b81e1508211"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R09.txt",
+      "sha256": "bf0b9c6ee644f6ce2626210bee959a70d347e09bd72e3bf79a84197d32b06e6f"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R10.txt",
+      "sha256": "29c197516410388fd628d74d7f003ff456785e134d442c6c9a4ea506044246db"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R11.txt",
+      "sha256": "d8b816e6bcccacef5017c6851fd50d2e686abec9b3e9b13da9b11b3cb7fba7ba"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R12.txt",
+      "sha256": "a042e2813d5c417383461a93fd36a442ad8500c84b969b0cd312cbea5985820d"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R13.txt",
+      "sha256": "219c9a7ffb29a5c1e1f8fb8a8fb87d56a948ceadead8a396d24c9d0d4db1d0d6"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R14.txt",
+      "sha256": "5553c8b85d919cc95cc342c2be92b55ed65898cda731bb3aa2fc06017bb09f6c"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R15.txt",
+      "sha256": "9af7eb549f91157df4b78676828cf1467daf176414365e7b25d185d736e204c8"
+    },
+    {
+      "path": "evaluations/isolated-comparison-2026-11-04/inputs/R16.txt",
+      "sha256": "c84aba528d22e14f501e7c90e48db8bb2e3bd6ba9cc7bdd7db6e862c63325560"
+    }
+  ]
+}
