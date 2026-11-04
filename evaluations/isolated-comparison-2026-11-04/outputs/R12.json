@@ -1,0 +1,6 @@
+{
+  "run": "R12",
+  "agent": "/root/claims_r12",
+  "status": "returned",
+  "text": "Recorded status: Not Started.\nEvidence-supported working state: Needs verification.\n\nNo notes or other evidence are supplied, so Not Started is neither supported nor contradicted. Minimum check: confirm whether any painting work has begun. Any status update requires human review."
+}

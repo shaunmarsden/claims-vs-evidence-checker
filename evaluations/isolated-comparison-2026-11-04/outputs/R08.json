@@ -1,0 +1,6 @@
+{
+  "run": "R08",
+  "agent": "/root/claims_r08",
+  "status": "returned",
+  "text": "Recorded status: In Progress.\n\nEvidence-supported working state: Old recorded evidence. The 4 August 2026 note records samples received and a pending colour decision.\n\nGap: That note does not establish current progress as of 4 November 2026. It also does not prove no further work has happened. No staleness rule was supplied.\n\nMinimum check: Confirm whether the colour decision remains pending and obtain dated evidence of the latest position. Any status update requires human review."
+}

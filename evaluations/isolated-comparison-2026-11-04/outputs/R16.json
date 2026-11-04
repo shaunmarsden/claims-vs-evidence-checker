@@ -1,0 +1,6 @@
+{
+  "run": "R16",
+  "agent": "/root/claims_r16",
+  "status": "returned",
+  "text": "Review stopped: ownership and inclusion in this review are unconfirmed.\n\nRecorded status: Done. Supplied note: “Serviced today.” No evidence-supported state is assigned until scope and ownership are confirmed."
+}

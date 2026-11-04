@@ -1,0 +1,6 @@
+{
+  "run": "R02",
+  "agent": "/root/claims_r02",
+  "status": "returned",
+  "text": "| Recorded status | Evidence-supported state |\n|---|---|\n| In Progress | Stale with no recent evidence |\n\nThe 4 August note confirms samples were received and the colour decision was pending then. With no later evidence by 4 November, current progress is unverified. The recorded status implies ongoing activity that the supplied evidence does not establish.\n\nAny status update remains for human review."
+}

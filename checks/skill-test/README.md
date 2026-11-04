@@ -1,6 +1,6 @@
-# Planned Skill Comparison
+# Skill Comparison Packet
 
-**Status: NOT RUN.** The cases, candidate and task are prepared. A model, visible settings and a maximum call/token budget still need agreement before execution. Do not call this a completed pre-registration until those conditions are recorded in a dated run record before the first call.
+**Status: One isolated Codex comparison completed on 4th November 2026.** See the [run record and review](../../evaluations/isolated-comparison-2026-11-04/README.md). Direct API execution was not run. The original manifest below remains the historical prepared-packet record, not the completion record. Both versions met the required case conclusions; the candidate did not meet the adoption rule. The live skill is unchanged.
 
 The [synthetic cases](cases.md) test missing dates, absent notes, old evidence, supported states, conflict, ownership and a pending check. The [candidate](candidate.md) is a proposal, not the live skill. [Reviewer-only expectations](answer-key.md) must stay out of the runner's context.
 
@@ -20,4 +20,4 @@ Use SKILL.md from commit 18f6c42cc44fd82978974145580740f94797ca4a, the main comm
 
 Only consider adopting the candidate if it has no automatic failures, introduces no new Needs correction or Not assessable finding on any case, and resolves at least one baseline defect. A tie is not improvement. If neither version meets that rule, report the unresolved problems rather than calling the current skill safe.
 
-This small synthetic comparison cannot establish general accuracy, platform compatibility or real-world reliability. Keep historical illustrations separate from its future results. Until it runs and is reviewed, leave the live SKILL.md unchanged.
+This small synthetic comparison cannot establish general accuracy, platform compatibility or real-world reliability. Keep historical illustrations separate from logged results. A completed comparison does not authorise adoption unless it meets the rule above.

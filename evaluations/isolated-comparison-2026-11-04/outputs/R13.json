@@ -1,0 +1,6 @@
+{
+  "run": "R13",
+  "agent": "/root/claims_r13",
+  "status": "returned",
+  "text": "Recorded status: Done.\n\nEvidence-supported state: Needs verification.\n\nConflict: The door is installed, but the note explicitly says a clearance check is still required before completion. “Done” is not supported by the supplied evidence.\n\nAny status update remains for human review."
+}

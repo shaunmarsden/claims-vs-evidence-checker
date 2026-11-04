@@ -1,0 +1,504 @@
+{
+  "reviewer": "Codex orchestrator",
+  "blind": false,
+  "independent": false,
+  "convention": "Meets includes checks with no triggered concern where the output makes no violating claim. Correctly held items are not penalised for declining a working state.",
+  "reviews": [
+    {
+      "run": "R01",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "The dated note supports 'booked for 10 November'."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "The date is supplied; no missing update is invented."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "'note dated 4 November' anchors the current blocker."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'Conflict: None' agrees with C4."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'any status update remains with a person'; no extra check invented."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R02",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'samples were received and the colour decision was pending then' matches C3."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'current progress is unverified' keeps later activity unknown."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "The output uses the dated August note, not an undated time."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'does not establish' distinguishes the record from current evidence."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'Any status update remains for human review'; no external action claimed."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R03",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'No notes or other evidence are supplied' matches C2."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'Cannot be determined' does not turn absent notes into Not Started."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "No current timing or booking is asserted."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'no conflict can be established' does not invent contradictory evidence."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'Review stopped' and 'no status change is proposed' are proportionate."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R04",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'fitting, a completed load check and owner sign-off' matches C5."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'Supported complete' relies on supplied completion evidence, not an assumed update."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "'on 4 November 2026' is supplied, not inferred."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'no conflict is apparent' matches the single consistent note."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'provisional reading ... not independent verification'; no extra check invented."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R05",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'undated note says the visit was rescheduled' matches C1."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'Needs verification' leaves current booking and blocker unknown."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "'cannot be tied to a calendar date' avoids converting next Tuesday."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'neither supports ... nor confirms' leaves the record unverified rather than disproved."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'confirm the note' and current booking/blocker is a proportionate check; update stays human."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R06",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'shelf was fitted, the load check completed' and sign-off match C5."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'Complete' is based on supplied evidence, not missing updates."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "'dated 4 November 2026' is explicit in C5."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'agree; no conflict' matches the consistent record and note."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'Any status update remains with a person'; no fabricated pending check."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R07",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'loose rear hinge and no final sign-off' matches C6."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'does not support Done' does not invent a later repair."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "The output keeps the supplied 2 and 3 November dates."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'Unresolved conflict' explicitly retains both notes."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'Confirm whether the hinge was subsequently repaired' and sign-off is proportionate; human review required."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R08",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'samples received and a pending colour decision' matches C3."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'does not prove no further work has happened' keeps later activity unknown."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "'4 August 2026' is supplied; no current state inferred from it."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'does not establish current progress' leaves the status unverified."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'obtain dated evidence of the latest position' is proportionate; human review required."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R09",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'installation' and required 'clearance check' match C8."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'Needs verification' does not invent completion of the check."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "The output uses the supplied 4 November note."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'Done ... runs ahead' retains the recorded-status conflict."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'confirm whether the clearance check has been completed and passed' addresses the stated completion gate; human review remains."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R10",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'booked for 10th November' and cannot complete before then match C4."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'Genuinely blocked' has a supplied current reason, not an assumed absence."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "'4th November note confirms' anchors timing."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'record and evidence agree' matches C4."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'Any status update remains with a person'; no invented concern."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R11",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'undated note says the visit was rescheduled' matches C1."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'unverified, not disproved' preserves the uncertainty."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "'does not establish which Tuesday' avoids a converted date."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'Cannot be established confidently' does not silently accept the record."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'Review stopped' is proportionate to insufficient evidence; no action claimed."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R12",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'No notes or other evidence are supplied' matches C2."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'neither supported nor contradicted' does not infer inactivity."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "No timing is invented."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'Needs verification' leaves the recorded status unresolved."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'confirm whether any painting work has begun' is proportionate; human review required."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R13",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'door is installed' and required clearance check match C8."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'Needs verification' does not invent a completed check."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "No timing is invented."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'Done is not supported' retains the completion conflict."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'Any status update remains for human review'; no action claimed."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R14",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'scope and ownership unconfirmed' matches C7."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'cannot be assessed ... until ... confirmed' does not accept Done."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "It quotes the relative-time note without using it to confirm current completion."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'Held' leaves the record unresolved rather than accepting an owned complete item."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'No status change is supported' and scope/ownership confirmation are proportionate."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R15",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'loose rear hinge and no final sign-off' matches C6."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'does not support Done' does not invent a subsequent repair."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "The supplied 3 November note is retained."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'contradicts the earlier' note keeps the conflict visible."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'Any status update remains with a person'; no action claimed."
+        }
+      ],
+      "automatic_failure": false
+    },
+    {
+      "run": "R16",
+      "checks": [
+        {
+          "check": 1,
+          "judgement": "Meets",
+          "reason": "'ownership and inclusion ... unconfirmed' matches C7."
+        },
+        {
+          "check": 2,
+          "judgement": "Meets",
+          "reason": "'No evidence-supported state is assigned' does not accept Done."
+        },
+        {
+          "check": 3,
+          "judgement": "Meets",
+          "reason": "It quotes the undated note without confirming a current state."
+        },
+        {
+          "check": 4,
+          "judgement": "Meets",
+          "reason": "'Recorded status: Done' remains separate from the held assessment."
+        },
+        {
+          "check": 5,
+          "judgement": "Meets",
+          "reason": "'Review stopped' pending scope/ownership is proportionate; no action claimed."
+        }
+      ],
+      "automatic_failure": false
+    }
+  ]
+}
