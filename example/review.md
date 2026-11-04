@@ -2,6 +2,8 @@
 
 I checked [output.md](output.md) against what [tracker.md](tracker.md) was built to test.
 
+A [later review dated 4th November 2026](../evaluations/illustration-calibration.md) checks the unsupported healthy-state claims against explicit rules. The original review below is preserved.
+
 ## What Worked
 
 It caught the false "Done". The cabinets note contradicts its own status: it says a check is still outstanding. The output caught this rather than trusting the status field. That's the main job of this skill.
