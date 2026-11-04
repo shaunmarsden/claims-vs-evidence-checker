@@ -31,6 +31,8 @@ Copy [SKILL.md](SKILL.md) and paste it into any AI chat. Then paste in an approv
 
 Both examples are illustrations, not logged model tests. The repository does not record the model, exact run instructions or settings. It has no measured accuracy or tool-by-tool compatibility results.
 
+The [later illustration review](evaluations/illustration-calibration.md) applies explicit rules to both saved outputs. The [planned skill comparison](checks/skill-test/README.md) prepares a separate test; it has not been run and the live skill is unchanged.
+
 Use [the blank template](templates/status-check-template.md) for your own tracker, and [the review checklist](checks/checklist.md) before you act on anything it flags.
 
 <details>
@@ -50,6 +52,17 @@ You don't need to install anything or write any code to try it once.
 This asks an AI to flag gaps. It does not inspect the work or change your tracker. Check its conclusions against the source, including dates, missing notes and unresolved conflicts. You make every status update yourself.
 
 Use only material you are allowed to share with your chosen AI tool. Remove private details that the check does not need.
+
+## Repository Checks
+
+Pull requests and changes to main run offline checks for relative links, heading anchors, punctuation and SVG XML. These do not test AI output or external websites. With Python 3.11 or newer, run:
+
+```sh
+python3 -m unittest discover -s checks -p 'test_*.py' -v
+python3 checks/check_repository.py
+```
+
+The checker reads Git-tracked files, so stage new documentation first. It supports the inline Markdown and HTML link forms used here, not all possible Markdown syntax.
 
 ## Feedback
 

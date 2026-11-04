@@ -2,6 +2,8 @@
 
 I checked [output.md](output.md) against what [tracker.md](tracker.md) was built to test.
 
+A [later review dated 4th November 2026](../evaluations/illustration-calibration.md) distinguishes the general first note from the specific second one. The original review below is preserved.
+
 ## What Worked
 
 It didn't just trust the newer note. It's tempting to assume the later note must be right because it's newer. The output didn't. Both notes are real claims about the same job, and being newer doesn't settle a contradiction between them.

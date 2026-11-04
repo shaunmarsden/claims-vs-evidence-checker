@@ -1,0 +1,16 @@
+{
+  "status": "NOT RUN",
+  "baseline_commit": "18f6c42cc44fd82978974145580740f94797ca4a",
+  "baseline_path": "SKILL.md",
+  "baseline_sha256": "b204f7a85cf7c36c9566692fd6c6a9cbab35634e34e71f53dbd67ed4a3708f59",
+  "prepared_baseline_sha256": "39da529b70e1a8967d92044095c88d4a11a377470baffd63788fb0ea9e8d8609",
+  "files": {
+    "checks/skill-test/candidate.md": "76f973fc1644553225d1bf9f0e0fceba214ce33746e6c8bd73e1227770960879",
+    "checks/skill-test/cases.md": "a06ca213a1c63cb358f44a911b13cc3236ca9d693bd796ea8f204420853af30f",
+    "checks/skill-test/task.txt": "9b173f71120ae4389262d7d5f25361cd6754cc886a270cd5a07122811ee7d98c",
+    "checks/skill-test/answer-key.md": "8d0b3c3b4053b3bf44b2ed1a4875461da49b257a7a76f1bebbb7297a6ece5e2f",
+    "checks/review-rules.md": "0f81465968a4d9df8282dea63ee1d9b9f43f6641b313bbc306898de44e84e8b3"
+  },
+  "model": null,
+  "call_budget_approved": false
+}
